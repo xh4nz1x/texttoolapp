@@ -1,0 +1,15 @@
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\bin\Debug\net8.0\TextToolApp.exe
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\bin\Debug\net8.0\TextToolApp.deps.json
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\bin\Debug\net8.0\TextToolApp.runtimeconfig.json
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\bin\Debug\net8.0\TextToolApp.dll
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\bin\Debug\net8.0\TextToolApp.pdb
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.AssemblyInfoInputs.cache
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.AssemblyInfo.cs
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.csproj.CoreCompileInputs.cache
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.sourcelink.json
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.dll
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\refint\TextToolApp.dll
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.pdb
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\TextToolApp.genruntimeconfig.cache
+C:\Users\h4nz1\Desktop\TextToolApp\TextToolApp\obj\Debug\net8.0\ref\TextToolApp.dll
