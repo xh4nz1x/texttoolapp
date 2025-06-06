@@ -11,12 +11,14 @@ class Program
         Console.WriteLine("1. Подсчёт символов и слов");
         Console.WriteLine("2. Инвертировать текст");
         Console.WriteLine("3. Удалить гласные");
+        Console.WriteLine("4. Изменить регистр");
 
         Console.Write("Ваш выбор: ");
         string choice = Console.ReadLine();
 
         switch (choice)
         {
+
             case "1":
                 CountText(text);
                 break;
@@ -25,6 +27,13 @@ class Program
                 break;
             case "3":
                 Console.WriteLine("Без гласных: " + RemoveVowels(text));
+                break;
+            case "4":
+                Console.WriteLine("1. В нижний регистр\n2. В верхний регистр");
+                string subChoice = Console.ReadLine();
+                if (subChoice == "1") Console.WriteLine(text.ToLower());
+                else if (subChoice == "2") Console.WriteLine(text.ToUpper());
+                else Console.WriteLine("Неверный выбор.");
                 break;
             default:
                 Console.WriteLine("Неверный выбор.");
