@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Введите текст: ");
+        Console.Write("Пожалуйста введите текст: ");
         string text = Console.ReadLine();
 
         Console.WriteLine("\nВыберите действие:");
